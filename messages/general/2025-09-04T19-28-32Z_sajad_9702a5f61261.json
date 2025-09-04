@@ -1,0 +1,16 @@
+{
+  "ts": "2025-09-04T19:28:32Z",
+  "author": "sajad",
+  "text": "Attachment: flag.txt",
+  "room": "general",
+  "id": "9702a5f61261",
+  "attachments": [
+    {
+      "name": "flag.txt",
+      "path": "attachments/1768a064cd505f8da55f0a4187ef72ccd4a760ae359731a0614947b3f8821acf__flag.txt",
+      "size": 27,
+      "sha256": "1768a064cd505f8da55f0a4187ef72ccd4a760ae359731a0614947b3f8821acf",
+      "mime": "text/plain"
+    }
+  ]
+}
